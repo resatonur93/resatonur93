@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Onur
-#### I am GitHub Readme Generator's creator
 
 Skills: JAVA / SPRİNG BOOT / POSTGRES SQL
 
