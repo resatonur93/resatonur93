@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Onur
+### Hi there 👋
+My name is Onur
 
-Skills: JAVA / SPRİNG BOOT / POSTGRES SQL 
+Skills: JAVA / SPRING BOOT / POSTGRES SQL 
 
 - 🔭 I’m currently working on Spring Boot 
 - 🌱 I’m currently learning Java & React
