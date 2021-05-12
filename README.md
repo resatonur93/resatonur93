@@ -13,9 +13,7 @@
 <p align="center"> 🤔 I’m looking for help with Spring Data <br></p>
 <p align="center"> 💬 Ask me about Node Js <br></p>
 <p align="center"> 📫 How to reach me: resatonurkurt@gmail.com <br></p>
-<p align="center">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/resatonur93?color=red&label=stars&logo=github&style=for-the-badge">
-</p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/reşat-onur-kurt-367a58a2/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
