@@ -9,3 +9,6 @@ Skills: JAVA / SPRING BOOT / POSTGRESQL
 🤔 I’m looking for help with Spring Data <br>
 💬 Ask me about Node Js <br>
 📫 How to reach me: resatonurkurt@gmail.com <br>
+
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=resatonur93&theme=dark&show_icons=true)
+
