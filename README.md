@@ -11,7 +11,7 @@
 <p align="center"> 🌱 I’m currently learning Spring Security <br></p>
 <p align="center"> 👯 I’m looking to collaborate on Java <br></p>
 <p align="center"> 🤔 I’m looking for help with Spring Data <br></p>
-<p align="center"> 💬 Ask me about Node Js <br></p>
+<p align="center"> 💬 Ask me about Java <br></p>
 <p align="center"> 📫 How to reach me: resatonurkurt@gmail.com <br></p>
 
 
