@@ -21,16 +21,7 @@
 <p align="center"> 📫 How to reach me: resatonurkurt@gmail.com <br></p>
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/reşat-onur-kurt-367a58a2/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 
-
-
-</p>
-
-<p align="center">
-    <img height=177 src="https://github-readme-stats.vercel.app/api?username=resatonur93&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=resatonur93&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
-</p>
 
 * * *
 
