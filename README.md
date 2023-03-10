@@ -13,8 +13,8 @@
 
 
 
-<p align="center"> 🔭 I’m currently working on Spring Security <br></p>
-<p align="center"> 🌱 I’m currently learning Spring Security <br></p>
+<p align="center"> 🔭 I’m currently working on Spring <br></p>
+<p align="center"> 🌱 I’m currently learning Spring <br></p>
 <p align="center"> 👯 I’m looking to collaborate on Java <br></p>
 <p align="center"> 🤔 I’m looking for help with Spring Data <br></p>
 <p align="center"> 💬 Ask me about Java <br></p>
